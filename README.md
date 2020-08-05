@@ -1,2 +1,2 @@
 # algorithms
-for learning purposes
+ 📣 for learning purposes
